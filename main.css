@@ -399,6 +399,7 @@ body .content {
      -moz-box-pack: center;
           justify-content: center;
   padding: 10px;
+  padding-top: 100px;
   position: absolute;
   min-height: 100vh;
   opacity: 0;
@@ -461,7 +462,6 @@ body .content .container {
 body .content .marketing {
   text-align: left;
   color: white;
-  padding-top: 80px;
   padding-bottom: 30px;
   max-width: 300px;
   opacity: 0;
@@ -611,7 +611,7 @@ body .content .white .login_button_holder .loginbtn {
   -webkit-transition: ease-in all 0.2s;
   transition: ease-in all 0.2s;
 }
-@media (min-width: 408px) and (max-width: 767px) {
+@media (min-width: 415px) and (max-width: 767px) {
   body .content .white .login_button_holder .loginbtn {
     max-width: 150px;
     padding-left: 40px;
@@ -764,7 +764,7 @@ body .content footer {
   bottom: 0px;
   min-height: 33px;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0.5);
+  background-color: #353535;
   z-index: 100;
   display: -webkit-box;
   display: -webkit-flex;
@@ -792,10 +792,10 @@ body .content footer {
   }
 }
 body .content footer a {
-  color: black;
+  color: white;
   margin-left: 10px;
 }
 body .content footer p {
   margin: 0;
-  opacity: .8;
+  color: white;
 }
