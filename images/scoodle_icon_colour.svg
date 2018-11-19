@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="68px" height="60px" viewBox="0 0 68 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad" transform="translate(-170.000000, -3077.000000)" fill-rule="nonzero">
+            <g id="Group-11" transform="translate(108.000000, 2763.000000)">
+                <g id="Group-10" transform="translate(0.000000, 222.000000)">
+                    <g id="Group-20" transform="translate(62.000000, 92.000000)">
+                        <rect id="Rectangle" fill="#45C2C5" x="0" y="0" width="68" height="60" rx="4"></rect>
+                        <g id="Group" transform="translate(8.800000, 7.200000)">
+                            <polygon id="Shape" fill="#C6E8EB" points="4.23649222 36 0 16.8533873 24.7611486 0"></polygon>
+                            <polygon id="Rectangle" fill="#FFFFFF" points="24.9186931 0 41.0373862 29.8894595 24.9186931 45.3064848 8.8 29.8894595"></polygon>
+                            <polygon id="Shape" fill="#A0DADF" points="24.9150269 0 41.0386353 29.885437 24.9150269 45.3073042"></polygon>
+                            <polygon id="Shape" fill="#78CDD5" transform="translate(37.420574, 18.000000) scale(-1, 1) translate(-37.420574, -18.000000) " points="29.2764922 36 25.04 16.8533873 49.8011486 0"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,142 @@
+// Variables
+@import "colors.less";
+@import "dimensions.less";
+
+.navbar {
+  z-index: 100;
+  align-items: flex-start;
+  background-color: @turquoise;
+
+  @media @desktop {
+    background-color: transparent;
+  }
+  
+
+  .navbar-brand {
+
+    height: 37px;
+    width: 40px;
+    background-image: url('images/scoodle_icon_colour.svg');
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    @media @desktop {
+      margin-left: 10px;
+      margin-top: 10px;
+      background-image: url('images/scoode_vertical_colour_white.svg');
+      height: 77px;
+      width: 60px;
+    }
+
+  }
+
+  .navbar-collapse {
+    margin-left: -10px;
+    margin-right: -10px;
+
+    .nav-link {
+      transition: ease-in .1s all;
+
+      &:hover {
+        background-color: darken(@turquoise, 10%);
+        border-radius: 100px;
+      }
+
+      &:focus {
+        outline: none;
+      }
+    }
+
+    @media @desktop {
+      margin: 0;
+    }
+
+    .language-dropdown {
+
+      margin-top: 0;
+      margin-bottom: 0;
+
+      @media @desktop {
+        margin: 1rem 0;
+      }
+
+      .dropdown-toggle {
+        border: 1px solid rgba(0, 0, 0, 0.1607843137254902);
+        border-radius: 100px;
+
+        &:fucus {
+          outline: none;
+        }
+      }
+
+      .dropdown-toggle:after {
+          right: 18px;
+          top: 19px;;
+          position: absolute;
+          font-size: 21px;
+
+          @media @desktop {
+            position: relative;
+            right: inherit;
+            top: inherit;
+            font-size: inherit;
+          }
+      }
+
+      .dropdown-menu {
+        min-width: inherit;
+        width: 100%;
+
+        a {
+          color: @off-black;
+        }
+
+        .dropdown-item:active {
+          color: white !important;
+          background-color: @turquoise !important;          
+        }
+      }
+
+
+      @media @desktop {
+        margin-left: 10px;
+
+        li a {
+          padding: .5rem 1rem;
+        }
+      }
+
+    }
+
+    ul {
+      display: flex;
+      background: #5ac2c6;
+      border-radius: 100px;
+      flex-direction: column;
+      margin-bottom: 0;
+
+      @media @desktop {
+        flex-direction: row;
+        margin: 1rem 0;
+      }
+      
+      li {
+        list-style: none;
+    
+        a {
+          color: white;
+          padding: 10px;
+  
+          @media @desktop {
+            padding: .5rem 2rem;
+          }
+        }
+      }
+    }
+
+    @media @desktop {
+      justify-content: flex-end;
+      margin-top: 10px;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>a</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M498.813953,331.545455 L491.186047,331.545455 L491.186047,334.636364 L495.576744,334.636364 C495.167442,336.6 493.455814,337.727273 491.186047,337.727273 C488.506977,337.727273 486.348837,335.618182 486.348837,333 C486.348837,330.381818 488.506977,328.272727 491.186047,328.272727 C492.339535,328.272727 493.381395,328.672727 494.2,329.327273 L496.581395,327 C495.130233,325.763636 493.269767,325 491.186047,325 C486.646512,325 483,328.563636 483,333 C483,337.436364 486.646512,341 491.186047,341 C495.27907,341 499,338.090909 499,333 C499,332.527273 498.925581,332.018182 498.813953,331.545455 Z" id="path-1"></path>
+    </defs>
+    <g id="latest" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Prim_sec_selector-Copy-4" transform="translate(-483.000000, -325.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="a" fill="#FFFFFF" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="85px" height="104px" viewBox="0 0 85 104" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>scoode_vertical_colour_white</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iPad" transform="translate(-563.000000, -1084.000000)">
+            <g id="scoode_vertical_colour_white" transform="translate(563.000000, 1084.000000)">
+                <text id="SCOODLE" font-family="KelsonSans-Regular, Kelson Sans" font-size="21" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="0" y="103">SCOODLE</tspan>
+                </text>
+                <g id="Group-20" fill-rule="nonzero">
+                    <rect id="Rectangle" fill="#45C2C5" x="0" y="0" width="85" height="75" rx="5"></rect>
+                    <g id="Group" transform="translate(11.000000, 9.000000)">
+                        <polygon id="Shape" fill="#C6E8EB" points="5.29561528 45 0 21.0667341 30.9514357 0"></polygon>
+                        <polygon id="Rectangle" fill="#FFFFFF" points="31.1483664 0 51.2967327 37.3618244 31.1483664 56.6331059 11 37.3618244"></polygon>
+                        <polygon id="Shape" fill="#A0DADF" points="31.1437836 0 51.2982941 37.3567963 31.1437836 56.6341302"></polygon>
+                        <polygon id="Shape" fill="#78CDD5" transform="translate(46.775718, 22.500000) scale(-1, 1) translate(-46.775718, -22.500000) " points="36.5956153 45 31.3 21.0667341 62.2514357 0"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
